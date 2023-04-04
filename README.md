@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://hashnode.com/@sudsek6060](https://hashnode.com/@sudsek6060)
+- 📝 I write articles on [https://hashnode.com/@sudsek6060](https://hashnode.com/@sudsek6060)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

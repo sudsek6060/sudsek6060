@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Curency Convertor**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js, Express.js, MomgoDB**
 
 - 📝 I write articles on [https://hashnode.com/@sudsek6060](https://hashnode.com/@sudsek6060)
 

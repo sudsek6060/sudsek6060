@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **Curency Convertor**
+- 🔭 I’m currently working on **Natours**
 
 - 🌱 I’m currently learning **Node.js, Express.js, MomgoDB**
 

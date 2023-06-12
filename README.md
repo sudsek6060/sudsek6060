@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **Natours**
+- 🔭 I’m currently working on **Youtube clone**
 
-- 🌱 I’m currently learning **Node.js, Express.js, MomgoDB**
+- 🌱 I’m currently learning **React.js**
 
 - 📝 I write articles on [https://hashnode.com/@sudsek6060](https://hashnode.com/@sudsek6060)
 

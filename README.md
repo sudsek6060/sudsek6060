@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Next.js, Three.js**
+- 🌱 I’m currently learning **Python, MySQL**
 
 - 📝 I write articles on [https://hashnode.com/@sudsek6060](https://hashnode.com/@sudsek6060)
 
